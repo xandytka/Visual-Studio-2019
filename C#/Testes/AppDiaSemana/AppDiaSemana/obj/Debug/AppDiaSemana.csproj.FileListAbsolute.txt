@@ -1,0 +1,5 @@
+E:\Treino VS2019\C#\AppDiaSemana\AppDiaSemana\bin\Debug\AppDiaSemana.exe
+E:\Treino VS2019\C#\AppDiaSemana\AppDiaSemana\bin\Debug\AppDiaSemana.pdb
+E:\Treino VS2019\C#\AppDiaSemana\AppDiaSemana\obj\Debug\AppDiaSemana.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppDiaSemana\AppDiaSemana\obj\Debug\AppDiaSemana.exe
+E:\Treino VS2019\C#\AppDiaSemana\AppDiaSemana\obj\Debug\AppDiaSemana.pdb

@@ -1,0 +1,3 @@
+D:\TreinoVS2019\C++\TesteBack\TesteBack\Debug\TesteBack.vcxprojAssemblyReference.cache
+D:\TreinoVS2019\C++\TesteBack\TesteBack\Debug\TesteBack.MyForm.resources
+D:\TreinoVS2019\C++\TesteBack\TesteBack\Debug\TesteBack.vcxproj.GenerateResource.cache

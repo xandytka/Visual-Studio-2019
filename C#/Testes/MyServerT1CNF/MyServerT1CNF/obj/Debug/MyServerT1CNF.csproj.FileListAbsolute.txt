@@ -1,0 +1,7 @@
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\bin\Debug\MyServerT1CNF.exe.config
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\bin\Debug\MyServerT1CNF.exe
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\bin\Debug\MyServerT1CNF.pdb
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\obj\Debug\MyServerT1CNF.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\obj\Debug\MyServerT1CNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\obj\Debug\MyServerT1CNF.exe
+D:\TreinoVS2019\C#\MyServerT1CNF\MyServerT1CNF\obj\Debug\MyServerT1CNF.pdb

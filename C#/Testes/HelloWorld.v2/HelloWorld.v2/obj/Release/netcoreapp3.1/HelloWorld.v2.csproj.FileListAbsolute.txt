@@ -1,0 +1,11 @@
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.exe
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.deps.json
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.runtimeconfig.json
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.runtimeconfig.dev.json
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.dll
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\bin\Release\netcoreapp3.1\HelloWorld.v2.pdb
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\obj\Release\netcoreapp3.1\HelloWorld.v2.AssemblyInfoInputs.cache
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\obj\Release\netcoreapp3.1\HelloWorld.v2.AssemblyInfo.cs
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\obj\Release\netcoreapp3.1\HelloWorld.v2.dll
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\obj\Release\netcoreapp3.1\HelloWorld.v2.pdb
+E:\Treino VS2019\C#\HelloWorld.v2\HelloWorld.v2\obj\Release\netcoreapp3.1\HelloWorld.v2.csprojAssemblyReference.cache

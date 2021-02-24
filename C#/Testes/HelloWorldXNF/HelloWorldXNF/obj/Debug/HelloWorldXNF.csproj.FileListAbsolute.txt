@@ -1,0 +1,14 @@
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\MainWindow.g.cs
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\App.g.cs
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF_MarkupCompile.cache
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF_MarkupCompile.lref
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\bin\Debug\HelloWorldXNF.exe
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\bin\Debug\HelloWorldXNF.pdb
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\MainWindow.baml
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.g.resources
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.Properties.Resources.resources
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.exe
+D:\TreinoVS2019\C#\HelloWorldXNF\HelloWorldXNF\obj\Debug\HelloWorldXNF.pdb

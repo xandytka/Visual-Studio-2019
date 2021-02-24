@@ -1,0 +1,5 @@
+E:\Treino VS2019\C#\Repeticao04\Repeticao04\bin\Debug\Repeticao04.exe
+E:\Treino VS2019\C#\Repeticao04\Repeticao04\bin\Debug\Repeticao04.pdb
+E:\Treino VS2019\C#\Repeticao04\Repeticao04\obj\Debug\Repeticao04.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\Repeticao04\Repeticao04\obj\Debug\Repeticao04.exe
+E:\Treino VS2019\C#\Repeticao04\Repeticao04\obj\Debug\Repeticao04.pdb

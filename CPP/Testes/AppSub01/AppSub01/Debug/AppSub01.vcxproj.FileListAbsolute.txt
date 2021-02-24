@@ -1,0 +1,3 @@
+D:\TreinoVS2019\C++\AppSub01\AppSub01\Debug\AppSub01.vcxprojAssemblyReference.cache
+D:\TreinoVS2019\C++\AppSub01\AppSub01\Debug\AppSub01.MyForm.resources
+D:\TreinoVS2019\C++\AppSub01\AppSub01\Debug\AppSub01.vcxproj.GenerateResource.cache

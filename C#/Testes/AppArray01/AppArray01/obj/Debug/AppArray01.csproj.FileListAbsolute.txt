@@ -1,0 +1,5 @@
+E:\Treino VS2019\C#\AppArray01\AppArray01\bin\Debug\AppArray01.exe
+E:\Treino VS2019\C#\AppArray01\AppArray01\bin\Debug\AppArray01.pdb
+E:\Treino VS2019\C#\AppArray01\AppArray01\obj\Debug\AppArray01.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppArray01\AppArray01\obj\Debug\AppArray01.exe
+E:\Treino VS2019\C#\AppArray01\AppArray01\obj\Debug\AppArray01.pdb

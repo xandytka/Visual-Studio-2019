@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\bin\Debug\MyClientT1WFNF.exe.config
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\bin\Debug\MyClientT1WFNF.exe
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\bin\Debug\MyClientT1WFNF.pdb
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.Form1.resources
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.Properties.Resources.resources
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.exe
+D:\TreinoVS2019\C#\MyClientT1WFNF\MyClientT1WFNF\obj\Debug\MyClientT1WFNF.pdb

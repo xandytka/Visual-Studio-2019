@@ -1,0 +1,5 @@
+E:\Treino VS2019\C#\AppMostrarNome\AppMostrarNome\bin\Debug\AppMostrarNome.exe
+E:\Treino VS2019\C#\AppMostrarNome\AppMostrarNome\bin\Debug\AppMostrarNome.pdb
+E:\Treino VS2019\C#\AppMostrarNome\AppMostrarNome\obj\Debug\AppMostrarNome.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppMostrarNome\AppMostrarNome\obj\Debug\AppMostrarNome.exe
+E:\Treino VS2019\C#\AppMostrarNome\AppMostrarNome\obj\Debug\AppMostrarNome.pdb

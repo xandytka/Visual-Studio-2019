@@ -1,0 +1,8 @@
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.Form1.resources
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.Properties.Resources.resources
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\bin\Debug\ThreadWFNF.exe
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\bin\Debug\ThreadWFNF.pdb
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.exe
+D:\TreinoVS2019\C#\ThreadWFNF\ThreadWFNF\obj\Debug\ThreadWFNF.pdb

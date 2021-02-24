@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\bin\Debug\ClipBoardT1WFNF.exe.config
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\bin\Debug\ClipBoardT1WFNF.exe
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\bin\Debug\ClipBoardT1WFNF.pdb
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.Form1.resources
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.Properties.Resources.resources
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.exe
+D:\TreinoVS2019\C#\ClipBoardT1WFNF\ClipBoardT1WFNF\obj\Debug\ClipBoardT1WFNF.pdb

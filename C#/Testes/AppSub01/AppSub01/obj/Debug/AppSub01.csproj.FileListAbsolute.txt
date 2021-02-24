@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\AppSub01\AppSub01\bin\Debug\AppSub01.exe.config
+D:\TreinoVS2019\C#\AppSub01\AppSub01\bin\Debug\AppSub01.exe
+D:\TreinoVS2019\C#\AppSub01\AppSub01\bin\Debug\AppSub01.pdb
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.Form1.resources
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.Properties.Resources.resources
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.exe
+D:\TreinoVS2019\C#\AppSub01\AppSub01\obj\Debug\AppSub01.pdb

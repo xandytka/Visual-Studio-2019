@@ -1,0 +1,14 @@
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.exe
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.deps.json
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.runtimeconfig.json
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.runtimeconfig.dev.json
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.dll
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\AppTranslate01.pdb
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.AssemblyInfoInputs.cache
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.AssemblyInfo.cs
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.dll
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.pdb
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\GoogleTranslateFreeApi.dll
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Treino VS2019\C#\AppTranslate01\AppTranslate01\obj\Debug\netcoreapp3.1\AppTranslate01.csproj.CopyComplete

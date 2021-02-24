@@ -1,0 +1,5 @@
+E:\Treino VS2019\C#\AppNumPar\AppNumPar\obj\Debug\AppNumPar.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppNumPar\AppNumPar\bin\Debug\AppNumPar.exe
+E:\Treino VS2019\C#\AppNumPar\AppNumPar\bin\Debug\AppNumPar.pdb
+E:\Treino VS2019\C#\AppNumPar\AppNumPar\obj\Debug\AppNumPar.exe
+E:\Treino VS2019\C#\AppNumPar\AppNumPar\obj\Debug\AppNumPar.pdb

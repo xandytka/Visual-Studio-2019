@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyClientT1CNF.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyClientT1CNF.vcxproj -> D:\TreinoVS2019\C++\MyClientT1CNF\Debug\MyClientT1CNF.exe

@@ -1,0 +1,6 @@
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\bin\Debug\AppTesteFunc.exe.config
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\bin\Debug\AppTesteFunc.exe
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\bin\Debug\AppTesteFunc.pdb
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\obj\Debug\AppTesteFunc.csprojAssemblyReference.cache
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\obj\Debug\AppTesteFunc.exe
+E:\Treino VS2019\C#\AppTesteFunc\AppTesteFunc\obj\Debug\AppTesteFunc.pdb

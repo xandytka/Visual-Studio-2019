@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\MyVNR\MyVNR\bin\Debug\MyVNR.exe.config
+D:\TreinoVS2019\C#\MyVNR\MyVNR\bin\Debug\MyVNR.exe
+D:\TreinoVS2019\C#\MyVNR\MyVNR\bin\Debug\MyVNR.pdb
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.Form1.resources
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.Properties.Resources.resources
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.exe
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.pdb
+D:\TreinoVS2019\C#\MyVNR\MyVNR\obj\Debug\MyVNR.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe.config
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.pdb
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\bin\Debug\SimpleTCP.dll
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Form1.resources
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Properties.Resources.resources
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CopyComplete
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.exe
+D:\TreinoVS2019\C#\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.pdb

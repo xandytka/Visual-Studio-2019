@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\bin\Debug\WebRequestGet.exe.config
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\bin\Debug\WebRequestGet.exe
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\bin\Debug\WebRequestGet.pdb
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.Form1.resources
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.Properties.Resources.resources
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.exe
+D:\TreinoVS2019\C#\WebRequestGet\WebRequestGet\obj\Debug\WebRequestGet.pdb

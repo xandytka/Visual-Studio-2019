@@ -1,0 +1,4 @@
+E:\Treino VS2019\C#\Repeticao01\Repeticao01\bin\Debug\Repeticao01.exe
+E:\Treino VS2019\C#\Repeticao01\Repeticao01\bin\Debug\Repeticao01.pdb
+E:\Treino VS2019\C#\Repeticao01\Repeticao01\obj\Debug\Repeticao01.exe
+E:\Treino VS2019\C#\Repeticao01\Repeticao01\obj\Debug\Repeticao01.pdb

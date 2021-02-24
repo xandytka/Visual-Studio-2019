@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\bin\Debug\MyServerT1WFNF.exe.config
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\bin\Debug\MyServerT1WFNF.exe
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\bin\Debug\MyServerT1WFNF.pdb
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.Form1.resources
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.Properties.Resources.resources
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.exe
+D:\TreinoVS2019\C#\MyServerT1WFNF\MyServerT1WFNF\obj\Debug\MyServerT1WFNF.pdb

@@ -1,0 +1,9 @@
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.exe
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.pdb
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.Properties.Resources.resources
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.exe
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.pdb
+D:\TreinoVS2019\C#\HelloWorldForm\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.Form1.resources

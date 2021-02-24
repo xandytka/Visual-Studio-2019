@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDiaSemana", "AppDiaSemana\AppDiaSemana.csproj", "{167326A3-A5E4-46B5-B89B-37095E80C091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167326A3-A5E4-46B5-B89B-37095E80C091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167326A3-A5E4-46B5-B89B-37095E80C091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167326A3-A5E4-46B5-B89B-37095E80C091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167326A3-A5E4-46B5-B89B-37095E80C091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B298457-6E13-4E08-B9D4-C1A6A24C670B}
+	EndGlobalSection
+EndGlobal

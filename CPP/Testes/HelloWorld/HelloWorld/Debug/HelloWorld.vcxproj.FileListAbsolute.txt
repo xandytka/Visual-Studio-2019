@@ -1,0 +1,3 @@
+D:\TreinoVS2019\C++\HelloWorld\HelloWorld\Debug\HelloWorld.MyForm.resources
+D:\TreinoVS2019\C++\HelloWorld\HelloWorld\Debug\HelloWorld.vcxproj.GenerateResource.cache
+D:\TreinoVS2019\C++\HelloWorld\HelloWorld\Debug\HelloWorld.vcxprojAssemblyReference.cache

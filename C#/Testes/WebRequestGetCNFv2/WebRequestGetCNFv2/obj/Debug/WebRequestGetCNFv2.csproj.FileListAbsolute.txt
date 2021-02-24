@@ -1,0 +1,7 @@
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\bin\Debug\WebRequestGetCNFv2.exe.config
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\bin\Debug\WebRequestGetCNFv2.exe
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\bin\Debug\WebRequestGetCNFv2.pdb
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\obj\Debug\WebRequestGetCNFv2.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\obj\Debug\WebRequestGetCNFv2.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\obj\Debug\WebRequestGetCNFv2.exe
+D:\TreinoVS2019\C#\WebRequestGetCNFv2\WebRequestGetCNFv2\obj\Debug\WebRequestGetCNFv2.pdb

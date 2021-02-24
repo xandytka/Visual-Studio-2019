@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\bin\Debug\OutLineApp01.exe.config
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\bin\Debug\OutLineApp01.exe
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\bin\Debug\OutLineApp01.pdb
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.Form1.resources
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.Properties.Resources.resources
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.exe
+D:\TreinoVS2019\C#\OutLineApp01\OutLineApp01\obj\Debug\OutLineApp01.pdb

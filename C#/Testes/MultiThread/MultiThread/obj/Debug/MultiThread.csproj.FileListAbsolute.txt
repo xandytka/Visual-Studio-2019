@@ -1,0 +1,10 @@
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.csprojAssemblyReference.cache
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.Form1.resources
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.Properties.Resources.resources
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.GenerateResource.cache
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.CoreCompileInputs.cache
+D:\TreinoVS2019\C#\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+D:\TreinoVS2019\C#\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+D:\TreinoVS2019\C#\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+D:\TreinoVS2019\C#\MultiThread\MultiThread\obj\Debug\MultiThread.pdb
